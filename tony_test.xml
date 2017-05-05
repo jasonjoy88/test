@@ -1,0 +1,8 @@
+1156,custom_reply_news,图文回复,0,,1,["keyword","keyword_type","title","intro","cate_id","cover","content","sort"],1:基础,,,,,id:5%ID
+keyword:10%关键词
+keyword_type|get_name_by_status:20%关键词类型
+title:30%标题
+cate_id:10%所属分类
+sort:7%排序号
+view_count:8%浏览数
+id:10%操作:[EDIT]|编辑,[DELETE]|删除,20,title,,1396061373,1401368247,1,MyISAM,CustomReply
